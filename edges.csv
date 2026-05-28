@@ -1,0 +1,254 @@
+source,target,weight
+Algeria,Crude Oil,9375616.651835075
+Algeria,Fuel Oil,3578730.487389352
+Algeria,Gas/diesel oil,4644369.027349201
+Algeria,Kerosenes,3862362.223906271
+Algeria,Kerosenes of which: kerosene type jet fuel,3340753.521730331
+Algeria,Liquefied petroleum gases,6100771.303935597
+Algeria,Motor and aviation gasoline,4902970.089530306
+Algeria,NGL,7015934.730714612
+Algeria,Naphtha,4120001.435853587
+Algeria,Other,2702353.31728027
+Algeria,Other oil products,2821545.34231721
+Algeria,Total,7565366.981267239
+Algeria,Total oil products,7254502.0
+Bahrain,Crude Oil,5002311.821309735
+Bahrain,Fuel Oil,3544531.500199955
+Bahrain,Gas/diesel oil,4088568.6616709
+Bahrain,Kerosenes,4108681.160960166
+Bahrain,Kerosenes of which: kerosene type jet fuel,3557127.519339913
+Bahrain,Liquefied petroleum gases,5857353.334400538
+Bahrain,Motor and aviation gasoline,4202648.675308825
+Bahrain,NGL,4161200.0
+Bahrain,Naphtha,3986983.998931475
+Bahrain,Other,3115400.0
+Bahrain,Other oil products,3357768.910359566
+Bahrain,Total,91461.0
+Bahrain,Total oil products,4876087.0
+Canada,Crude Oil,23124309.02190662
+Canada,Fuel Oil,4085095.116248715
+Canada,Gas/diesel oil,8378407.711699536
+Canada,Kerosenes,4915151.369466556
+Canada,Kerosenes of which: kerosene type jet fuel,4090738.333104035
+Canada,Liquefied petroleum gases,6932571.922816597
+Canada,Motor and aviation gasoline,9282018.133481922
+Canada,NGL,7057757.602560519
+Canada,Naphtha,3744723.748753353
+Canada,Other,7643042.1477255775
+Canada,Other oil products,8478852.207451021
+Canada,Total,20483113.696037218
+Canada,Total oil products,20563001.21144934
+China,Crude Oil,51259875.94697422
+China,Fuel Oil,5837577.204990332
+China,Gas/diesel oil,15361276.269537222
+China,Kerosenes,5107730.285355558
+China,Liquefied petroleum gases,8190765.853957057
+China,Motor and aviation gasoline,12104149.859569816
+China,Naphtha,4364187.128371198
+China,Other oil products,8605939.893428722
+China,Total,41627479.66669944
+China,Total oil products,49833293.3456551
+India,Crude Oil,25311147.76083711
+India,Fuel Oil,4550876.713032454
+India,Gas/diesel oil,13742132.593721228
+India,Kerosenes,5888795.201327961
+India,Kerosenes of which: kerosene type jet fuel,4117294.507395419
+India,Liquefied petroleum gases,8719010.40260216
+India,Motor and aviation gasoline,8287977.914782476
+India,NGL,3883100.0
+India,Naphtha,5399562.467688859
+India,Other,3130200.0
+India,Other oil products,5875858.245270838
+India,Total,1961581.0
+India,Total oil products,30052337.0
+Iraq,Crude Oil,15998761.746150725
+Iraq,Fuel Oil,8702184.49215223
+Iraq,Gas/diesel oil,4385695.696632943
+Iraq,Kerosenes,7185259.833442226
+Iraq,Kerosenes of which: kerosene type jet fuel,3176128.049229261
+Iraq,Liquefied petroleum gases,11928869.260005642
+Iraq,Motor and aviation gasoline,4774025.760978332
+Iraq,NGL,4967000.911540475
+Iraq,Naphtha,7384408.737637679
+Iraq,Other,139790.111974129
+Iraq,Other oil products,6315410.093764244
+Iraq,Total,10960322.06935947
+Iraq,Total oil products,7388713.0
+Kuwait,Crude Oil,15265235.557435973
+Kuwait,Fuel Oil,8324113.833812482
+Kuwait,Gas/diesel oil,9555396.643000102
+Kuwait,Kerosenes,9472667.01740262
+Kuwait,Kerosenes of which: kerosene type jet fuel,6340320.0
+Kuwait,Liquefied petroleum gases,12938603.609459229
+Kuwait,Motor and aviation gasoline,9128393.190536285
+Kuwait,NGL,4472200.0
+Kuwait,Naphtha,7999305.714999601
+Kuwait,Other,1221.930691755
+Kuwait,Other oil products,6221900.814349079
+Kuwait,Total,7490563.069520539
+Kuwait,Total oil products,16586561.0
+Libya,Crude Oil,9629590.2671232
+Libya,Fuel Oil,7259088.063339876
+Libya,Gas/diesel oil,7837638.49961597
+Libya,Kerosenes,8052317.580634635
+Libya,Kerosenes of which: kerosene type jet fuel,6557880.0
+Libya,Liquefied petroleum gases,11432989.95773312
+Libya,Motor and aviation gasoline,8491896.566390553
+Libya,NGL,9446351.61160307
+Libya,Naphtha,6992205.557314456
+Libya,Other,116.555499758
+Libya,Other oil products,6022021.811599734
+Libya,Total,1127164.41955656
+Libya,Total oil products,9025514.0
+Mexico,Crude Oil,21003187.158445917
+Mexico,Fuel Oil,9622332.86413041
+Mexico,Gas/diesel oil,12245726.256977202
+Mexico,Kerosenes,8569275.729630992
+Mexico,Kerosenes of which: kerosene type jet fuel,6995256.982029553
+Mexico,Liquefied petroleum gases,14450857.846109223
+Mexico,Motor and aviation gasoline,17152087.528956313
+Mexico,NGL,5217101.967664845
+Mexico,Naphtha,7486160.56898244
+Mexico,Other,3351480.201235553
+Mexico,Other oil products,10347698.381236065
+Mexico,Total,8279555.77528684
+Mexico,Total oil products,29626584.190803476
+Morocco,Crude Oil,3201691.248174242
+Morocco,Fuel Oil,5299649.079321042
+Morocco,Gas/diesel oil,6907794.639740859
+Morocco,Kerosenes,6556869.902267615
+Morocco,Kerosenes of which: kerosene type jet fuel,6309859.858997874
+Morocco,Liquefied petroleum gases,10121827.71836845
+Morocco,Motor and aviation gasoline,7018810.624216727
+Morocco,NGL,4017000.0
+Morocco,Naphtha,7384403.656834506
+Morocco,Other,4068884.656236246
+Morocco,Other oil products,5264943.021348823
+Morocco,Total,14019.0
+Morocco,Total oil products,7893797.0
+Norway,Crude Oil,14409452.746578436
+Norway,Fuel Oil,6669655.719863345
+Norway,Gas/diesel oil,9466624.324545415
+Norway,Kerosenes,8288409.562865416
+Norway,Kerosenes of which: kerosene type jet fuel,6422370.446686988
+Norway,Liquefied petroleum gases,13627465.79221417
+Norway,Motor and aviation gasoline,9398164.784309639
+Norway,NGL,4829900.2420672
+Norway,Naphtha,7694126.931148628
+Norway,Other,3297669.893682243
+Norway,Other oil products,9720786.316331813
+Norway,Total,13833014.273170093
+Norway,Total oil products,14686524.94015812
+Oman,Crude Oil,9982223.655536983
+Oman,Fuel Oil,6614020.233077286
+Oman,Gas/diesel oil,7569458.88952407
+Oman,Kerosenes,8291226.020508973
+Oman,Kerosenes of which: kerosene type jet fuel,6232800.0
+Oman,Liquefied petroleum gases,11221307.650116831
+Oman,Motor and aviation gasoline,8501597.601604046
+Oman,NGL,8415850.560064467
+Oman,Naphtha,7178591.207195753
+Oman,Other,6018735.943305083
+Oman,Other oil products,6550208.196682846
+Oman,Total,250003.0
+Oman,Total oil products,8492965.0
+Qatar,Crude Oil,12689781.786502648
+Qatar,Fuel Oil,6734816.187148904
+Qatar,Gas/diesel oil,8207428.232281874
+Qatar,Kerosenes,9003265.990806377
+Qatar,Kerosenes of which: kerosene type jet fuel,6262620.0
+Qatar,Liquefied petroleum gases,13355325.671671858
+Qatar,Motor and aviation gasoline,9037092.328215906
+Qatar,NGL,4767200.0
+Qatar,Naphtha,7663603.522980251
+Qatar,Other,2704.599981259
+Qatar,Other oil products,5854024.808313342
+Qatar,Total,1958058.4143941689
+Qatar,Total oil products,12039024.0
+Russia,Crude Oil,49961289.26375494
+Russia,Fuel Oil,15125619.59871563
+Russia,Gas/diesel oil,17873249.76538764
+Russia,Kerosenes,709611.821043846
+Russia,Kerosenes of which: kerosene type jet fuel,703215.210978496
+Russia,Liquefied petroleum gases,8671556.910038514
+Russia,Motor and aviation gasoline,13079726.438198261
+Russia,NGL,1577455.72344562
+Russia,Naphtha,141722.0
+Russia,Other oil products,4021863.7542807
+Russia,Total,55713410.37578004
+Russia,Total oil products,9252559.418689951
+Saudi Arabia,Crude Oil,122039655.92447144
+Saudi Arabia,Fuel Oil,13082625.398516526
+Saudi Arabia,Gas/diesel oil,19297769.552007854
+Saudi Arabia,Kerosenes,11546216.551447948
+Saudi Arabia,Kerosenes of which: kerosene type jet fuel,6728820.0
+Saudi Arabia,Liquefied petroleum gases,11620781.933894178
+Saudi Arabia,Motor and aviation gasoline,17595838.40722711
+Saudi Arabia,NGL,9711400.0
+Saudi Arabia,Naphtha,8163219.037339435
+Saudi Arabia,Other,869472.59406753
+Saudi Arabia,Other oil products,12194533.18122245
+Saudi Arabia,Total,76875388.839556
+Saudi Arabia,Total oil products,44658949.0
+Syria,Crude Oil,4337550.0
+Syria,Fuel Oil,2197000.0
+Syria,Gas/diesel oil,4839600.0
+Syria,Kerosenes,5269300.0
+Syria,Kerosenes of which: kerosene type jet fuel,1223040.0
+Syria,Liquefied petroleum gases,7574800.0
+Syria,Motor and aviation gasoline,5618500.0
+Syria,NGL,762200.0
+Syria,Naphtha,748440.0
+Syria,Other oil products,5559620.0
+Syria,Total oil products,2599200.0
+Tunisia,Crude Oil,3387425.170240836
+Tunisia,Fuel Oil,2726873.739304065
+Tunisia,Gas/diesel oil,3431745.690683741
+Tunisia,Kerosenes,3330056.46630669
+Tunisia,Kerosenes of which: kerosene type jet fuel,3188192.68100243
+Tunisia,Liquefied petroleum gases,4636544.024476457
+Tunisia,Motor and aviation gasoline,3257233.805889043
+Tunisia,NGL,4144545.556636472
+Tunisia,Naphtha,3694975.068186707
+Tunisia,Other,2908200.0
+Tunisia,Other oil products,2394668.2330757
+Tunisia,Total,22245.0
+Tunisia,Total oil products,3634105.0
+United Arab Emirates,Crude Oil,25664848.904566266
+United Arab Emirates,Fuel Oil,3450792.696898563
+United Arab Emirates,Gas/diesel oil,4145078.586448704
+United Arab Emirates,Kerosenes,4453515.246384299
+United Arab Emirates,Kerosenes of which: kerosene type jet fuel,2758350.0
+United Arab Emirates,Liquefied petroleum gases,5662140.711561323
+United Arab Emirates,Motor and aviation gasoline,4733175.680353923
+United Arab Emirates,NGL,11034757.28966223
+United Arab Emirates,Naphtha,3965207.287978632
+United Arab Emirates,Other,39338.83259889
+United Arab Emirates,Other oil products,3034802.24585118
+United Arab Emirates,Total,4386485.979940275
+United Arab Emirates,Total oil products,5927276.0
+United States,Crude Oil,140670450.83117542
+United States,Fuel Oil,10445611.87164853
+United States,Gas/diesel oil,36560624.990461074
+United States,Kerosenes,14154087.866746081
+United States,Kerosenes of which: kerosene type jet fuel,9067556.177890629
+United States,Liquefied petroleum gases,20874942.601203896
+United States,Motor and aviation gasoline,62117225.373097055
+United States,NGL,17446482.48615594
+United States,Naphtha,3105599.969571533
+United States,Other,13981431.535158196
+United States,Other oil products,25028088.493406884
+United States,Total,139357369.7181887
+United States,Total oil products,133827598.96310171
+Yemen,Crude Oil,4216937.60831467
+Yemen,Fuel Oil,3214797.90043182
+Yemen,Gas/diesel oil,3581007.05363507
+Yemen,Kerosenes,4034528.600731309
+Yemen,Kerosenes of which: kerosene type jet fuel,2908640.0
+Yemen,Liquefied petroleum gases,6192058.77162734
+Yemen,Motor and aviation gasoline,4297568.02573558
+Yemen,NGL,4346600.0
+Yemen,Naphtha,3849120.0
+Yemen,Other,3256000.0
+Yemen,Other oil products,2456320.0
+Yemen,Total oil products,3964930.0

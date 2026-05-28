@@ -1,0 +1,34 @@
+id,label,type
+Algeria,Algeria,Country
+Crude Oil,Crude Oil,Product
+Fuel Oil,Fuel Oil,Product
+Gas/diesel oil,Gas/diesel oil,Product
+Kerosenes,Kerosenes,Product
+Kerosenes of which: kerosene type jet fuel,Kerosenes of which: kerosene type jet fuel,Product
+Liquefied petroleum gases,Liquefied petroleum gases,Product
+Motor and aviation gasoline,Motor and aviation gasoline,Product
+NGL,NGL,Product
+Naphtha,Naphtha,Product
+Other,Other,Product
+Other oil products,Other oil products,Product
+Total,Total,Product
+Total oil products,Total oil products,Product
+Bahrain,Bahrain,Country
+Canada,Canada,Country
+China,China,Country
+India,India,Country
+Iraq,Iraq,Country
+Kuwait,Kuwait,Country
+Libya,Libya,Country
+Mexico,Mexico,Country
+Morocco,Morocco,Country
+Norway,Norway,Country
+Oman,Oman,Country
+Qatar,Qatar,Country
+Russia,Russia,Country
+Saudi Arabia,Saudi Arabia,Country
+Syria,Syria,Country
+Tunisia,Tunisia,Country
+United Arab Emirates,United Arab Emirates,Country
+United States,United States,Country
+Yemen,Yemen,Country
