@@ -9,6 +9,8 @@ Ky repository permban materialet e fazes se trete te projektit Big Data: analize
 ├── Documentation/
 │   ├── Phase3_Report.pdf
 │   └── Phase3_Presentation.pptx
+├── Big Data Dataset/
+│   └── world-oil-data-cleaned.csv
 ├── Network/
 │   ├── Rezultatet_dataseti/
 │   ├── Vizualizimi/
@@ -16,9 +18,10 @@ Ky repository permban materialet e fazes se trete te projektit Big Data: analize
 ├── NoSQL Data/
 │   ├── FuelPrice.csv
 │   └── WorldBank_dataset.csv
+├── NoSQL Queries/
+│   └── queries.js
 ├── Spark/
 │   └── Phase3Spark.ipynb
-├── queries.js
 └── README.md
 ```
 
@@ -27,7 +30,7 @@ Ky repository permban materialet e fazes se trete te projektit Big Data: analize
 - Python 3.10+.
 - Jupyter Notebook ose JupyterLab.
 - Apache Spark / PySpark per ekzekutimin e notebook-ut ne folderin `Spark`.
-- MongoDB ose MongoDB Compass per ekzekutimin e query-ve ne `queries.js`.
+- MongoDB ose MongoDB Compass per ekzekutimin e query-ve ne `NoSQL Queries/queries.js`.
 - Gephi, nese deshironi te hapni workspace-in dhe vizualizimet e rrjetit.
 
 ## Konfigurimi
@@ -82,7 +85,7 @@ Ky repository permban materialet e fazes se trete te projektit Big Data: analize
 4. Ekzekutoni query-te nga:
 
    ```text
-   queries.js
+   NoSQL Queries/queries.js
    ```
 
 ## Analiza e rrjetit
